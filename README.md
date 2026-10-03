@@ -132,5 +132,5 @@ This project demonstrates a **production-ready CI/CD pipeline** using modern Dev
 
 # 👨‍💻 Author
 
-Ahmed Hamed
-DevOps Engineer 🚀
+Abdelrahman Mohamed El-bahnsy
+DevOps Engineer 
